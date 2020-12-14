@@ -1,0 +1,42 @@
+/* селектор по тегу */
+body{
+	/* 
+	цвет
+	фона
+	 */
+	background-color: rgb(212, 211, 150);
+}
+
+header, div, footer{
+	border: 2px solid rgb(21, 211, 10);
+}
+
+/* селектор по классу */
+._header{
+	background-color: teal
+}
+
+.row_1{
+	background-color: white;
+}
+
+/* селектор по идентификатору */
+#div_2{
+	/* свойство цвета текста */
+	/* color: springgreen; */
+	height: 500px;
+}
+
+#p1{
+	/* свойства текста */
+	margin: 10px 5px 5px 10px;
+	color: saddlebrown;
+	font-size: 100%;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+}
+
+.row_2{
+	margin: 10px 20px;
+	padding: 10px;
+}

@@ -1,0 +1,22 @@
+header, div.main, footer {
+	border: 2px solid black;
+}
+
+/****  header ****/
+
+header {
+	background-color: #313131;
+	height: 100px;
+}
+
+/****  main ****/
+
+.main {
+	background-color: #b8b8b8;
+	height: 800px;
+}
+
+/****  footer ****/
+footer {
+	background-color: #313131;
+}
